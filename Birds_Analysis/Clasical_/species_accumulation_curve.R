@@ -15,7 +15,10 @@ setwd("G:/biato/Dagma-Icesi/R_dagma/Aves")
 ############
 #abrimos la el .CSV - debes remplazar el nombre a continuacion
 Bi=read.csv("Datos_aves_(1).csv", header=T, sep=",", dec=".")
-View(Bi)
+
+
+
+#View(Bi)
 ### Asegurate de que se vean bien las separaciones entre columnas con el siguiente
 head(Bi,2)
 #####################################################################
