@@ -6,11 +6,19 @@ It is an initiative focused on the development and implementation of sustainable
 
 As part of this project, a team of researchers and practitioners has developed a set of codes and algorithms to analyze the data collected from various monitoring stations throughout the Pance River basin. These codes are designed to process and interpret large volumes of data, including water quality, weather, and land use information, and generate insights and recommendations for decision-makers.
 
+<<<<<<< HEAD
 
 The codes are written in R and are stored in a GitHub repository that is publicly available for use by researchers and practitioners working on similar environmental monitoring and analysis projects. The repository contains detailed documentation on how to install and use the codes, as well as sample datasets for testing and validation purposes.
 
 The codes are written in Python and are stored in a GitHub repository that is publicly available for use by researchers and practitioners working on similar environmental monitoring and analysis projects. The repository contains detailed documentation on how to install and use the codes, as well as sample datasets for testing and validation purposes.
 
+=======
+<<<<<<< HEAD
+The codes are written in R and are stored in a GitHub repository that is publicly available for use by researchers and practitioners working on similar environmental monitoring and analysis projects. The repository contains detailed documentation on how to install and use the codes, as well as sample datasets for testing and validation purposes.
+=======
+The codes are written in Python and are stored in a GitHub repository that is publicly available for use by researchers and practitioners working on similar environmental monitoring and analysis projects. The repository contains detailed documentation on how to install and use the codes, as well as sample datasets for testing and validation purposes.
+>>>>>>> 5ca8b97906979469633fa7d749781091d9455649
+>>>>>>> 9560eb88daa5bd18e617d749641296dceef215f5
 
 In addition to the codes themselves, the repository also contains a comprehensive analysis base that documents the research findings and recommendations generated through the use of the codes. This analysis base includes reports, publications, and presentations that summarize the main insights and lessons learned from the project, as well as recommendations for future research and interventions.
 
