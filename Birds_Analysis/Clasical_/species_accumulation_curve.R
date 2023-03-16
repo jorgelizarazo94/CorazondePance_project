@@ -14,7 +14,7 @@ library(reshape2)
 setwd("G:/biato/Dagma-Icesi/R_dagma/Aves")
 ############
 #abrimos la el .CSV - debes remplazar el nombre a continuacion
-Bi=read.csv("Datos aves (1).csv", header=T, sep=",", dec=".")
+Bi=read.csv("Datos_aves_(1).csv", header=T, sep=",", dec=".")
 View(Bi)
 ### Asegurate de que se vean bien las separaciones entre columnas con el siguiente
 head(Bi,2)
